@@ -62,18 +62,18 @@ weights
 
 `results20230406-214117.txt` :记录每个epoch的12个指标和总损失、lr
 
-Average Precision (AP) @[IoU =0.50:0.95] | area = all | maxDets=100]
-Average Precision (AP) @[IoU =0.50] | area = all | maxDets=100]
-Average Precision (AP) @[IoU =0.75] | area = all | maxDets=100]
-Average Precision (AP) @[IoU =0.50:0.95] | area = smalll | maxDets=100]
-Average Precision (AP) @[IoU =0.50:0.95] | area = medium | maxDets=100]
-Average Precision (AP) @[IoU =0.50:0.95] | area = large | maxDets=100]
-Average Recall (AR) @[IoU =0.50:0.95] | area = all | maxDets=1]
-Average Recall (AR) @[IoU =0.50:0.95] | area = all | maxDets=10]
-Average Recall (AR) @[IoU =0.50:0.95] | area = all | maxDets=100]
-Average Recall (AR) @[IoU =0.50:0.95] | area = small | maxDets=100]
-Average Recall (AR) @[IoU =0.50:0.95] | area = medium | maxDets=100]
-Average Recall (AR) @[IoU =0.50:0.95] | area =large | maxDets=100]
+Average Precision (AP) @[IoU =0.50:0.95] | area = all | maxDets=100]  
+Average Precision (AP) @[IoU =0.50] | area = all | maxDets=100]  
+Average Precision (AP) @[IoU =0.75] | area = all | maxDets=100]  
+Average Precision (AP) @[IoU =0.50:0.95] | area = smalll | maxDets=100]  
+Average Precision (AP) @[IoU =0.50:0.95] | area = medium | maxDets=100]  
+Average Precision (AP) @[IoU =0.50:0.95] | area = large | maxDets=100]  
+Average Recall (AR) @[IoU =0.50:0.95] | area = all | maxDets=1]  
+Average Recall (AR) @[IoU =0.50:0.95] | area = all | maxDets=10]  
+Average Recall (AR) @[IoU =0.50:0.95] | area = all | maxDets=100]  
+Average Recall (AR) @[IoU =0.50:0.95] | area = small | maxDets=100]  
+Average Recall (AR) @[IoU =0.50:0.95] | area = medium | maxDets=100]  
+Average Recall (AR) @[IoU =0.50:0.95] | area =large | maxDets=100]  
 
 
 
