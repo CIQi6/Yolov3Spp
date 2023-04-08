@@ -47,6 +47,7 @@ tvmonitor
 - augment_hsv
 
 ## train()
+第一次训练采用warmup热身训练加速.
 
 进行30个epochs,batch_size=4。
 
